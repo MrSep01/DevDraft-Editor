@@ -76,7 +76,8 @@ Contributions, issues, and feature requests are welcome!
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+
 ## Contact 📞
 
-Feel free to reach out for any questions or suggestions by contacting Sep through   [email ](sep.alamouti@sepalamouti.com).
+Feel free to reach out for any questions or suggestions by contacting Sep through [email](mailto:sep.alamouti@sepalamouti.com).
 

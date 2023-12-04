@@ -45,7 +45,8 @@ Deploying the application to Heroku with proper build scripts for a webpack-base
 
 1. Clone the repository to your local machine.
 2. Run `npm install` to install dependencies.
-3. Execute `npm run start` from the root directory to start both the backend and serve the client.
+3. Execute `npm run build` from the root directory.
+3. Execute `npm run dev:start` or  `npm run start` from the root directory to start both the backend and serve the client.
 4. Access the editor via `localhost:3000` in your web browser.
 5. For offline use, install the application by clicking on the 'Install' button.
 
@@ -53,25 +54,19 @@ Deploying the application to Heroku with proper build scripts for a webpack-base
 
 The application is deployed to Heroku. Please find the live URL and the build scripts included in the project.
 
-## Demo
+## Live Application
 
-Here's a brief demonstration of the application functionality:
-![Text Editor in Action](./Assets/00-demo.gif)
+The live application can be found here:
+[Heroku Deployed Application](https://devdraft-c05641821bcf.herokuapp.com/)
 
-## Manifest and Service Worker
+## Repository
 
-The application's manifest and service worker ensure PWA compliance:
-![Manifest](./Assets/01-manifest.png)
-![Service Worker](./Assets/02-service-worker.png)
-![IndexedDB Storage](./Assets/03-idb-storage.png)
+[GitHub Repository Link](https://github.com/MrSep01/DevDraft-Editor)
 
-## Review and Grading
-
-This project is evaluated based on deployment, application quality, repository quality, and technical acceptance criteria including PWA implementation, IndexedDB usage, and offline functionality.
 
 ## Conclusion 🏁
 
-J.A.T.E brings advanced text editing capabilities to your fingertips, readily accessible from any modern web browser, with or without an internet connection. Its intuitive design and robust backend ensure your data is always at hand.
+DevDraft brings advanced text editing capabilities to your fingertips, readily accessible from any modern web browser, with or without an internet connection. Its intuitive design and robust backend ensure your data is always at hand.
 
 ## Contribution
 
@@ -83,13 +78,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📞
 
-Feel free to reach out for any questions or suggestions at [Your Email](mailto:your-email@example.com).
+Feel free to reach out for any questions or suggestions by contacting Sep through   [email ](sep.alamouti@sepalamouti.com).
 
-## Repository
-
-[GitHub Repository Link](https://github.com/yourusername/jate-text-editor)
-
-## Live Application
-
-The live application can be found here:
-[Heroku Deployed Application](https://your-app-name.herokuapp.com/)
